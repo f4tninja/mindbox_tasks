@@ -6,10 +6,10 @@ namespace AreaCalculationTests
 	public static class Instances
     {
 
-		public static Figure CreateEmptyTriangleWithArgumentException()
-		{
-			return new Triangle();
-		}
+        public static Figure CreateEmptyTriangleWithArgumentException()
+        {
+            return new Triangle();
+        }
 
         public static Figure CreateTriangleWithArgumentException()
         {

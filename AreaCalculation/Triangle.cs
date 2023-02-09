@@ -29,7 +29,7 @@ namespace AreaCalculation
             return max * max == catSum;
         }
 
-        override public double CalculateArea()
+        public override double CalculateArea()
         {
             double halfPerimetr = GetHalfPerimetr();
 
