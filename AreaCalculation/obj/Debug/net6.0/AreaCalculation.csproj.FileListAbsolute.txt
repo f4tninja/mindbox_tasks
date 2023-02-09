@@ -1,0 +1,12 @@
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/bin/Debug/net6.0/AreaCalculation.deps.json
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/bin/Debug/net6.0/AreaCalculation.dll
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/bin/Debug/net6.0/AreaCalculation.pdb
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/AreaCalculation.csproj.AssemblyReference.cache
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/AreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/AreaCalculation.AssemblyInfoInputs.cache
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/AreaCalculation.AssemblyInfo.cs
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/AreaCalculation.csproj.CoreCompileInputs.cache
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/AreaCalculation.dll
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/refint/AreaCalculation.dll
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/AreaCalculation.pdb
+/Users/vlad/Projects/AreaCalculation/AreaCalculation/obj/Debug/net6.0/ref/AreaCalculation.dll
